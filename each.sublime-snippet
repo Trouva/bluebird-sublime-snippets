@@ -1,0 +1,10 @@
+<!-- each -->
+<snippet>
+    <content><![CDATA[
+each(function($1) {
+    $2
+})$3
+]]></content>
+    <tabTrigger>each</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

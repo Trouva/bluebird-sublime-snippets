@@ -1,0 +1,10 @@
+<!-- map -->
+<snippet>
+    <content><![CDATA[
+map(function($1) {
+    $2
+})$3
+]]></content>
+    <tabTrigger>map</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

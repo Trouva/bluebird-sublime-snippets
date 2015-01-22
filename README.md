@@ -27,3 +27,23 @@ catch(function(err) {
     $2
 })$3
 ```
+
+- `each`:
+```js
+each(function($1) {
+    $2
+})$3
+```
+
+- `map`:
+```js
+map(function($1) {
+    $2
+})$3
+```
+
+- `tap console`:
+```js
+tap(console.log.bind(console, $1))
+```
+
