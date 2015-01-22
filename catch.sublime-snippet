@@ -1,0 +1,10 @@
+<!-- catch -->
+<snippet>
+    <content><![CDATA[
+catch(function(err) {
+    $2
+})$3
+]]></content>
+    <tabTrigger>catch</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

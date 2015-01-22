@@ -1,0 +1,10 @@
+<!-- new Bluebid -->
+<snippet>
+    <content><![CDATA[
+new Bluebird(function(resolve, reject) {
+
+});
+]]></content>
+    <tabTrigger>new</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
